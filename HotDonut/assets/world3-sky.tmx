@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="1" tilewidth="512" tileheight="512">
+ <tileset firstgid="1" name="world3-sky" tilewidth="512" tileheight="512">
+  <image source="world3-sky.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="24" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYAJiZiBmAWJGKvMBC6AAPQ==
+  </data>
+ </layer>
+</map>

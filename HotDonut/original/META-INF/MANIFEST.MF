@@ -1,0 +1,1564 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_92 (Oracle Corporation)
+
+Name: assets/winnerscircle.png
+SHA1-Digest: 4ZkKJyTIJXURGQUbNrISr0gW09A=
+
+Name: assets/swingjumpsboosty.lxl
+SHA1-Digest: t2v+YL9reWV3/skSAFGJR1qleb0=
+
+Name: assets/select-level-w2.png
+SHA1-Digest: DcXVCjB6HwCFvxS7gfbyO+gTg48=
+
+Name: assets/world1-layer1.png
+SHA1-Digest: PvJfLrdwnhVYVv9wUy0mt7F2zYQ=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: xw3C3hxhbAqRc7fZEiHwllptNuM=
+
+Name: assets/Default-Landscape.png
+SHA1-Digest: LD7Hg+0plNXMLkTMVo59NvP8zpY=
+
+Name: assets/level43.lvl
+SHA1-Digest: vX/+/Tn4NfYQtszfWElpzsJKie4=
+
+Name: assets/level10-hd.lvl
+SHA1-Digest: WCrEWZLhdoWPCRsShR21HdompCI=
+
+Name: assets/main-menu.png
+SHA1-Digest: ui0xj8cTnW1dGtq96VHbQUAL3LI=
+
+Name: assets/roofrider.lxl
+SHA1-Digest: gn+ExEp9BNQNfgx2piqNsex1p7Y=
+
+Name: assets/level51.lvl
+SHA1-Digest: eA5RoELrMVs5BNOIrfq5h2RNZS4=
+
+Name: assets/level19.lvl
+SHA1-Digest: nOK2AfVLHjmKY15IsXmvKBLtuJA=
+
+Name: assets/sprites-hd.plist
+SHA1-Digest: v2NglfpLG4e4xKfitD+DsOJwJYk=
+
+Name: assets/level40-hd.lvl
+SHA1-Digest: l+f3Ge5dvQXNX4+ujB+4rY997hw=
+
+Name: assets/sand_edge-hd.png
+SHA1-Digest: No2J5jgaTzeE83vdqZjrEgHGtfM=
+
+Name: assets/notches-hard.lxl
+SHA1-Digest: U40czTUvyPzAgEXnh8F258+EWsM=
+
+Name: assets/level35.lvl
+SHA1-Digest: +i6RsrEkMGCOQGAWh9wsWNFksPQ=
+
+Name: assets/level44-hd.lvl
+SHA1-Digest: inRxO/96HyNgnnlxHP+IDILk7Y4=
+
+Name: assets/level7-hd.lvl
+SHA1-Digest: lPbw0pfdN5q65ygQxJyYd0VCtY4=
+
+Name: lib/armeabi-v7a/libgame.so
+SHA1-Digest: 1WUMyYD9mgbgIjQLCGoRkF1pDTQ=
+
+Name: assets/level55-hd.lvl
+SHA1-Digest: WxjUG2R4g7frZs3WpGipvmJBffU=
+
+Name: assets/level48-hd.lvl
+SHA1-Digest: Zr36JT25W7rEGPm02VRgBJtLmII=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: P0qtXMR1tIVD3itqmJUkw/QAdxQ=
+
+Name: assets/gradbar-m.png
+SHA1-Digest: wUZjXmLl7BDdXh2nGwn4vN9yR68=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ev4Xp3BnuUFonUkZKMGII0L1KW0=
+
+Name: assets/level59-hd.lvl
+SHA1-Digest: j/q9x3gzL640TOkUbtp9tCPmZv8=
+
+Name: assets/sand_edge.png
+SHA1-Digest: DJketGV7aMMMkQO1tRmpYJQPae4=
+
+Name: assets/bot14-1.txt
+SHA1-Digest: cNtxEYLzNhfevMBo5/mFmAqlSMA=
+
+Name: assets/bot8-3.txt
+SHA1-Digest: giKe8+rl6rI5dPmJ4cFmEv0XwR4=
+
+Name: assets/gc-16-hd.png
+SHA1-Digest: whGFen3kVZYe2r9VvYp9muk7JNE=
+
+Name: assets/gc-24.png
+SHA1-Digest: FRt4aN7q5pWRC09iXqTS96tFqJM=
+
+Name: assets/level51-hd.lvl
+SHA1-Digest: HQjGvXYmuUMWNO3pwstOYzVfLLU=
+
+Name: resources.arsc
+SHA1-Digest: V76XMCkGSWPOabpJwXjDzfx0DkU=
+
+Name: res/layout/com_facebook_picker_activity_circle_row.xml
+SHA1-Digest: wiDsBdHOtxSyQZX9nem5w0Ds7OM=
+
+Name: assets/level66.lvl
+SHA1-Digest: xR2JUTnuM3pJHrKuvKv/Os8D5EU=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: vaIikRMPOeSzfh5geLs840nHy5o=
+
+Name: assets/cutscene.png
+SHA1-Digest: 3qgysj3nUMGYMR1uZ4kMIwIcdWA=
+
+Name: assets/gc-32-hd.fnt
+SHA1-Digest: JKmnyoFZwW/0AOyiuhShaw3OH/o=
+
+Name: assets/tinyswoops.lxl
+SHA1-Digest: W2K8MZjHwJweOkY0m/xjkdwP7PU=
+
+Name: assets/level11.lvl
+SHA1-Digest: 3Rsk1fyGzeK0coChj6Kk8ML3CGk=
+
+Name: lib/armeabi-v7a/libcocosdenshion.so
+SHA1-Digest: 8Tlewa+s1ceETUfyiDR1As00Zmk=
+
+Name: assets/boom1.wav
+SHA1-Digest: Fe2pWM3MwoZlbQJegJw3uC/eL8g=
+
+Name: assets/gc-32.png
+SHA1-Digest: 3xSoX9zXJFMCvbmSbTNMQLlt8Sw=
+
+Name: assets/snd-tap-button.wav
+SHA1-Digest: 8AmUfz7yMG2n0wM1J2/XcWkdMis=
+
+Name: assets/world1-layer2b.png
+SHA1-Digest: 9tPg+rFi0LJUryP+J685Uqr/vAg=
+
+Name: res/layout/game_demo.xml
+SHA1-Digest: OCA8WW3t/N9EPttMeqMzAdeK/fs=
+
+Name: res/drawable/com_facebook_top_button.xml
+SHA1-Digest: uTIln03flROMTShXmv3jJaLxL4U=
+
+Name: res/drawable-xhdpi/com_facebook_logo.png
+SHA1-Digest: 94ZTspodsrcPndjRFwq4Cqz6Wc4=
+
+Name: res/drawable/com_facebook_list_divider.9.png
+SHA1-Digest: 45BAgKtOkC0fHYqIunSXrQ8YubM=
+
+Name: assets/bot6-1.txt
+SHA1-Digest: xnPWic4q1EgHuSfHBpaK9GuMWjc=
+
+Name: assets/tightandtall.lxl
+SHA1-Digest: MfwV8ubYyfrG7IbmwTRTdSp+1bI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: fkSl5TzaqWtoHMAMwR45PEulg5M=
+
+Name: assets/level18-hd.lvl
+SHA1-Digest: Le2iJd6bcdNCYBBXE033i1WJDhA=
+
+Name: assets/dot.png
+SHA1-Digest: 7QTLai6CA0+xwbCQRNsbqZDsouY=
+
+Name: assets/level14-hd.lvl
+SHA1-Digest: jw5USn5hdyLvoimIaWwBuUh1R0U=
+
+Name: assets/reward.wav
+SHA1-Digest: MKeVVMfSYcGK81a44FgGs4/J5RU=
+
+Name: assets/level21-hd.lvl
+SHA1-Digest: l4EwKOM4fwlSECH7BfB/ep2xtQk=
+
+Name: assets/bot11-3.txt
+SHA1-Digest: Ec/sHcPpQ1t6Cb6JY3USeZS8i1U=
+
+Name: assets/level25-hd.lvl
+SHA1-Digest: xA5kK3Zi6RYkrxxje7NGsGZps1E=
+
+Name: assets/music-world3-1.mp3
+SHA1-Digest: BI6GqBAVUf50XvDAxR9d1XhsJgM=
+
+Name: assets/level6.lvl
+SHA1-Digest: 2oTEInp/kjA4jB1MD+4Nr6yfLXY=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: V27iDxNqPIzkdIgA+0DIi/AfQYY=
+
+Name: assets/bot1-1.txt
+SHA1-Digest: DacTnoJkN/mNs0eT7vjpAJsdqd0=
+
+Name: assets/2153_edgegrass_wide.png
+SHA1-Digest: Gy6slezEfpRS0omH6KxgjwxUSB8=
+
+Name: assets/skijumps.lxl
+SHA1-Digest: 4+n2U9aZOuF9af+xx3sUB63hIzo=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: vaIikRMPOeSzfh5geLs840nHy5o=
+
+Name: assets/level75.lvl
+SHA1-Digest: Wt4hnuRqyBIN5CTqrIV0/zJ7oZA=
+
+Name: assets/level58.lvl
+SHA1-Digest: UOVXc7WPZ+BNq/BiIexvvI7O1Jo=
+
+Name: assets/world2-small_islands.png
+SHA1-Digest: SrfK5WMS/75dtaxWBUpz+/6nHCM=
+
+Name: assets/jungleedge-hd.png
+SHA1-Digest: x0eZuevN7gDxPMmjrtOzirxUPPA=
+
+Name: assets/world4-hd.png
+SHA1-Digest: +wXDnxQrD1FukBeHumhOJSHCsEE=
+
+Name: assets/firework2.plist
+SHA1-Digest: DmW0E/Z7ilH/qyD0SHgdGpspXEg=
+
+Name: assets/rocket.wav
+SHA1-Digest: z+7i8jq3qkbYzvgb+QG9GnL82IA=
+
+Name: kiwi
+SHA1-Digest: jHnc7RLxC3rSVfWNo6VEuv57vPw=
+
+Name: assets/stars-grayscale.png
+SHA1-Digest: UWL/yLK9Na6XY7VI23GviZgQERc=
+
+Name: assets/gc-24-hd.fnt
+SHA1-Digest: oSqYE6mIRjCNFl/pQ3il5idD91c=
+
+Name: assets/boomerang.lxl
+SHA1-Digest: whCGG52+RcVDN4rNYgAUy/3j0FU=
+
+Name: assets/boostintro.lxl
+SHA1-Digest: hgbNRSb1x2itt+mJQ4OMgU8aszU=
+
+Name: assets/level67.lvl
+SHA1-Digest: eWVxY6qQH1WQbppm/XaT5vl13e0=
+
+Name: assets/new_life.wav
+SHA1-Digest: UFn4xQy9KzwzMVFzE+pXOtA5XrU=
+
+Name: assets/bot3-2.txt
+SHA1-Digest: oMTR8B/qo+d9OJqR+xmrnAjEngg=
+
+Name: assets/burnTutorial-hd.png
+SHA1-Digest: 2q8qdvMX1ZdGgLXIdeR3bFOOuJU=
+
+Name: assets/level29-hd.lvl
+SHA1-Digest: +t1R/KBDAaj6B4rTug7AO4P8Jyg=
+
+Name: assets/firework.plist
+SHA1-Digest: gufujXvrnvfBXhxzq/89wH9klFs=
+
+Name: assets/vBurnTutorial-hd.png
+SHA1-Digest: oy2m6R6Ki6749QUDb9wwYzo727E=
+
+Name: assets/world2-sky.png
+SHA1-Digest: F48iAOg0yPWSILI+TZMnpE+DCVQ=
+
+Name: assets/world3-mountains.png
+SHA1-Digest: 1dQxnfZaHWfmB8ejHfNWUEBZN2M=
+
+Name: assets/level42.lvl
+SHA1-Digest: OSevHaxPwit1yTQiAzVJGmf+jUE=
+
+Name: assets/howto-littlehills.lxl
+SHA1-Digest: ANqhgVk3O3mBNMopVTFAW9Pt/0I=
+
+Name: assets/pairs-hard.lxl
+SHA1-Digest: 4TFOOep7+hDQi/h4J3/hsifMcXM=
+
+Name: assets/wallwalker-hard.lxl
+SHA1-Digest: QOIRyev1xN+MzXMMpr7CCvylPOM=
+
+Name: assets/splash.wav
+SHA1-Digest: wd7lwlD6FD30aTaWbQYQAqh433w=
+
+Name: res/layout/com_facebook_picker_title_bar.xml
+SHA1-Digest: 081325Qg42GQDdY0a4UIWSBYRzE=
+
+Name: assets/main-menu-hd.plist
+SHA1-Digest: wKpuTIvZdEZMVVNPq0K3t2Dtmzc=
+
+Name: assets/level26-hd.lvl
+SHA1-Digest: 4NTqpiTEPiNUL+21kFDNLjmql64=
+
+Name: res/drawable/com_facebook_button_grey_normal.9.png
+SHA1-Digest: kZ9314YgSZHYcEuP+vXCuujxd48=
+
+Name: assets/level52.lvl
+SHA1-Digest: NjMtVlau8IDZlom9dV85tTU+fF0=
+
+Name: assets/level37-hd.lvl
+SHA1-Digest: 7wJbGa5y4Bu2Pd9f0GUbbr5XPdY=
+
+Name: assets/level73-hd.lvl
+SHA1-Digest: CSxYk9jjTIvtT1owBCnWIVK7uwI=
+
+Name: assets/level18.lvl
+SHA1-Digest: NfxXilPUlr2DXVwEoG69mgsU+ck=
+
+Name: assets/winnerscircle-hd.png
+SHA1-Digest: eKpJ9Zh9Dn8KyrYXAMpxsiDkSXI=
+
+Name: res/drawable/com_facebook_picker_top_button.xml
+SHA1-Digest: jNHpPRz/+PV9UoYxQAaJzWSwO2M=
+
+Name: assets/airboosts.lxl
+SHA1-Digest: 7pYs7pymveIxuV1ZqepmrzoTWco=
+
+Name: assets/level36.lvl
+SHA1-Digest: LByK9/qKV1sm5Ig0gDZdsiyzo7Y=
+
+Name: assets/world3-hd.png
+SHA1-Digest: P2TnrI+kMnrcOcbiFGVEXIhwc4c=
+
+Name: assets/level62-hd.lvl
+SHA1-Digest: s5UIz70/ID9f8i3MvC9cpmc4xW0=
+
+Name: assets/boostexpert.lxl
+SHA1-Digest: HYZlLBjwRBJpRpzEu373mpAHsb4=
+
+Name: assets/okButton.png
+SHA1-Digest: jRNluqwKSXs9Ch0kGvejEHTtGCg=
+
+Name: assets/select-level-w1.png
+SHA1-Digest: igW9Vu41JRSvwzm943vCFN0V4IY=
+
+Name: assets/level20.lvl
+SHA1-Digest: izpCWMJwJv4aDuR1m8adgm5c7m0=
+
+Name: assets/bot9-1.txt
+SHA1-Digest: a1tb7hfyUFN/oosAv95fYK7Z7hI=
+
+Name: assets/world5-sky.png
+SHA1-Digest: qWTLSe4dolbJF0qZ5fa7ogmlG8Q=
+
+Name: assets/gc-16.png
+SHA1-Digest: prhcieoerwB2S7rNBHXlAZvS1s4=
+
+Name: assets/level2-hd.lvl
+SHA1-Digest: LsenTtSc0PSPyP1syeElLl1OJyY=
+
+Name: assets/teleport2.wav
+SHA1-Digest: j4VrZl1LnJxNErxELsAfwFzQ8hc=
+
+Name: assets/world1-layer2a.png
+SHA1-Digest: bJ2r23R8opEfXY1W5Brur53Ntho=
+
+Name: assets/2153_cave_edge.png
+SHA1-Digest: VWUvrdgqH2fThM3npVh4O05OMcg=
+
+Name: assets/splat.wav
+SHA1-Digest: IZ0uhTjNkCDMrK9m7LZ7V2b8S/U=
+
+Name: res/layout/com_facebook_friendpickerfragment.xml
+SHA1-Digest: UnysyDQ1Asl1qv2wVTZ30gO9YBs=
+
+Name: com.amazon.content.id.MC-S-1BSW89F9IOMR1
+SHA1-Digest: 0r+w4BH2gDbznlPFN6UVCg/kgSE=
+
+Name: assets/world1-sky.tmx
+SHA1-Digest: xL1KlMSpBx4mWjiluLaybGSt5lY=
+
+Name: assets/music-title.mp3
+SHA1-Digest: PDkE1HtZQCEQ/+/4GOjn+HuIQ9o=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: V27iDxNqPIzkdIgA+0DIi/AfQYY=
+
+Name: assets/world4-trees.tmx
+SHA1-Digest: pOjyh6qYNgFqT4bcQqgAiDmmt5g=
+
+Name: assets/bot1-2.txt
+SHA1-Digest: iKjGkpspPHkgQtsVAlBUoTHXVuE=
+
+Name: res/drawable/com_facebook_loginbutton_blue.xml
+SHA1-Digest: UshthZ08NiCP3Hflq3kwHoV86WE=
+
+Name: assets/level74.lvl
+SHA1-Digest: fUpPVWu7BoN/anCgrI6ZgbxzVfk=
+
+Name: assets/level57.lvl
+SHA1-Digest: z9ojwp/1f4Xu02C3eGTGM35iDbA=
+
+Name: assets/world1-background.tmx
+SHA1-Digest: pDQGvKFbk5YyCCRbz0Rrmc2lvng=
+
+Name: res/drawable/com_facebook_close.png
+SHA1-Digest: FDOOYcRoxfXB5QdY1YikzqT7kx8=
+
+Name: res/drawable/com_facebook_picker_list_selector.xml
+SHA1-Digest: 3N9fmsYtXDMWoodStr8HslepM50=
+
+Name: assets/worldlock.png
+SHA1-Digest: qvR9WphGxkFMKclsLpwtCFsVIxs=
+
+Name: assets/tutorial.png
+SHA1-Digest: MaQjVC4KSlXxEm0e3wqC0uTYaPM=
+
+Name: assets/massivehills-reallyeasy.lxl
+SHA1-Digest: YHtvydTbpEY4vBBvYioVuh4VtL4=
+
+Name: assets/level56-hd.lvl
+SHA1-Digest: Gaq5yFzhadwcZXhgBIqEqF8fRL8=
+
+Name: assets/snow_edge.png
+SHA1-Digest: SPGLgUMku/GA4eKXqafZF2uZFlU=
+
+Name: assets/cutscene.plist
+SHA1-Digest: CLSVUBmF0gfid0qa7PmmfbgI9+g=
+
+Name: res/layout/com_facebook_placepickerfragment_list_row.xml
+SHA1-Digest: tNBmo4TT87TgK7HqVuQd5iTmRD0=
+
+Name: assets/level5.lvl
+SHA1-Digest: eghLraBeyxxOJj7R3bpMIXTkk2k=
+
+Name: res/drawable/com_facebook_loginbutton_silver.xml
+SHA1-Digest: OHiqr5JPwNOBRroIns4nrYWSEx8=
+
+Name: assets/level70-hd.lvl
+SHA1-Digest: CSLWdKtpLg1sJQCGq0Rqtvt/rnE=
+
+Name: assets/bot3-3.txt
+SHA1-Digest: e1D4wF+40pQxy/zzCLFy1b0JZ8A=
+
+Name: assets/sprites-hd.png
+SHA1-Digest: HFRq+d2rKBM0lhfiJ6xhXftm85k=
+
+Name: assets/learntofly-easy.lxl
+SHA1-Digest: mXRxOVZPsJ+MGjis9AQ8jzjlmTY=
+
+Name: assets/level67-hd.lvl
+SHA1-Digest: NenF2lgKUAX/7SlWnYPuqYOMpNs=
+
+Name: assets/level68.lvl
+SHA1-Digest: rf1ofd4+CRsUOKwpIPhM7vE2QiA=
+
+Name: assets/mouthshigh.lxl
+SHA1-Digest: vDxmkZyK4ob87b7uE9AikSH8Qoo=
+
+Name: assets/world4-background.tmx
+SHA1-Digest: zXlgAfIxPG6s0hFEJcnuuBcFJMs=
+
+Name: assets/level33.lvl
+SHA1-Digest: +N2E2qs1NMLAfnY6BkkOwo8WvWA=
+
+Name: assets/deathdoubles-easy.lxl
+SHA1-Digest: 7D1zz0sppMVJxo0ktTUD2V/qeq8=
+
+Name: res/drawable/com_facebook_picker_list_selector_disabled.9.png
+SHA1-Digest: cKGQg8jgT0IkOi1RPo5Y+TSnQb4=
+
+Name: assets/level41.lvl
+SHA1-Digest: yZB3+RbPb6NyY7xxcpcqdaE59iU=
+
+Name: assets/buttons.plist
+SHA1-Digest: kq4Evw0LBl/PPhFwBNLRvv9RsN0=
+
+Name: assets/lownfast.lxl
+SHA1-Digest: gojdlngCUEcBE/AGXifJoG26XIk=
+
+Name: assets/smallBack-hd.png
+SHA1-Digest: 2jR7qICtJDdIzHnXb7B3S42Av90=
+
+Name: assets/bot4-2.txt
+SHA1-Digest: oyhRcK3rnIZvUbDDAO4eY7ryi64=
+
+Name: assets/buildupspeed.lxl
+SHA1-Digest: IYt1j0twLX+7+zcmee2JbefvtvI=
+
+Name: res/drawable/com_facebook_picker_list_longpressed.9.png
+SHA1-Digest: /uU9+qqC9MjC0cwR3L+DskCy9xM=
+
+Name: assets/level11-hd.lvl
+SHA1-Digest: mZ2PiB0u/KBjgABK4L816OEhVJg=
+
+Name: assets/bot3-1.txt
+SHA1-Digest: KVOcw8LWAdNqk4IBA79VIGXGRd0=
+
+Name: assets/level25.lvl
+SHA1-Digest: 6oh64GwOEOaA4R2ZZZ7IATvhTzQ=
+
+Name: assets/bot13-2.txt
+SHA1-Digest: IU8/XxLwFXZeKJO9xBPWPu3Z1zc=
+
+Name: assets/level15-hd.lvl
+SHA1-Digest: WUvz9okB44638ZAgJJZ7K4c7w7k=
+
+Name: assets/bot8-1.txt
+SHA1-Digest: Ur2rvEMnKTkCzyFoNIZh/EiK7AA=
+
+Name: assets/mist.plist
+SHA1-Digest: 9RNnemGzTjNKqF1JLPV+eDymjDY=
+
+Name: res/layout/com_facebook_loginfragment.xml
+SHA1-Digest: YXRXO41hZH38KvR6ArTZkj1lAYI=
+
+Name: assets/massivehills-hard.lxl
+SHA1-Digest: LMwhnT/wYXiUp1KrKKpgOATH0xk=
+
+Name: assets/loading.png
+SHA1-Digest: MRz8CVOSzeX/Wig8gWHK7wQv3pU=
+
+Name: assets/vBurnTutorial.png
+SHA1-Digest: VozDdHIpeswaH6s8sEkB1UNP0FQ=
+
+Name: assets/boostexpert-easy.lxl
+SHA1-Digest: 8VMXALvd1GZGClUCEg8y8irBPqI=
+
+Name: assets/level48.lvl
+SHA1-Digest: aa38eQ4eHHvEJ2KgzCq9+oUUMn0=
+
+Name: assets/level53.lvl
+SHA1-Digest: wvjEjT9sF85ORyPaf+kdsnUmj/Y=
+
+Name: res/drawable-ldpi/com_facebook_close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: assets/gradbar-v.png
+SHA1-Digest: Sq57aWfhbcKT+4JI0x0MIBfthSk=
+
+Name: assets/smallBack.png
+SHA1-Digest: 7Ohn9wPYD1v0MlC2h5Tjo6dJIPs=
+
+Name: assets/level10.lvl
+SHA1-Digest: HtfEK3Jog3zf1/sJhZy0GBTLL4o=
+
+Name: assets/bot10-3.txt
+SHA1-Digest: 6/IlmpA1fLD1IVrrxk+9+PkTCT4=
+
+Name: assets/learntofly-long.lxl
+SHA1-Digest: F01SB+UdRKngiIQaGVMxYh/4N2A=
+
+Name: assets/level8.lvl
+SHA1-Digest: lKpByBA9pJF1c4offhvd9BKGTPI=
+
+Name: assets/bot2-1.txt
+SHA1-Digest: EMHJa0WUp2bhOstAsH7nW5QbF0o=
+
+Name: assets/massivehills-easy.lxl
+SHA1-Digest: f2mk9bCWjJyFkSBlRKv5fuTLZ2A=
+
+Name: assets/bot11-1.txt
+SHA1-Digest: fRhXaIJwohL+J9cCryRDu+ag6NA=
+
+Name: assets/bot5-3.txt
+SHA1-Digest: nqg6FskZI6pT+tQcAXx/cpeLxeQ=
+
+Name: assets/world3-sky.png
+SHA1-Digest: jO4hKRJAG/sC1Qpxa8tysdKF0hs=
+
+Name: assets/bot14-2.txt
+SHA1-Digest: wTwTrNpT+9zZuB9v33ePK/0b1iU=
+
+Name: assets/level4-hd.lvl
+SHA1-Digest: Y8L8C0358L64cRRKhl3KOIeJt3o=
+
+Name: assets/world2-small_islands.tmx
+SHA1-Digest: b8drKzaep5VNXQdMPPDi6EDWiF4=
+
+Name: assets/level56.lvl
+SHA1-Digest: t0vrdSSCP/zlv+6zBmdHMoMO6Vk=
+
+Name: assets/bot9-2.txt
+SHA1-Digest: mpVrZa1iyHU961Xe7oHs6LZUx+U=
+
+Name: assets/level17-hd.lvl
+SHA1-Digest: mv1egUWBjE3TFRNbLLxRJE2IJzg=
+
+Name: assets/cutscene-hd.plist
+SHA1-Digest: 8J+9XzE2TGacLbJwBg8PbPMHZW0=
+
+Name: assets/2153_dirt-hd.png
+SHA1-Digest: ibS0eHrPlED0TLH/Z/dL+K8OQiA=
+
+Name: res/drawable-xhdpi/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: xGQtABb1AitSeN8uVNWHd/+8MQ0=
+
+Name: assets/level50-hd.lvl
+SHA1-Digest: c7KmjX7Xmu7DP577eGlrh/zRnOg=
+
+Name: assets/world1.png
+SHA1-Digest: y5K57i9+8Gv40nU9Ay1aLWwgQ4c=
+
+Name: assets/boomerangcaves.lxl
+SHA1-Digest: f0UkYk6JfaNSr/eEFPukE8hjuoM=
+
+Name: assets/cliffs.lxl
+SHA1-Digest: Lzp/heLRcS5gbT1dUC++AfP1cgU=
+
+Name: lib/armeabi/libcocos2d.so
+SHA1-Digest: MameFaLKn+WMAyW0bL5SOcFkfYY=
+
+Name: assets/level28.lvl
+SHA1-Digest: SOfReOb7M8xy4+3FKRMfZxbp69Y=
+
+Name: assets/level8-hd.lvl
+SHA1-Digest: F2j8/DF5ar+OHkZ7x5+rqZU35Lg=
+
+Name: assets/level43-hd.lvl
+SHA1-Digest: SFWKWxv9dqNYrJ/DILuzFS91QtU=
+
+Name: assets/bot6-3.txt
+SHA1-Digest: loJDIz8IXaI8ST3q/C5wS2Om/6U=
+
+Name: assets/level13.lvl
+SHA1-Digest: GNxhcCsvmcIesDz4dSSFGqihI9E=
+
+Name: assets/level32-hd.lvl
+SHA1-Digest: /+CrDy7IrioQVa3wSOvZ17Guutg=
+
+Name: assets/bot12-1.txt
+SHA1-Digest: yTUkwFgM4/ZIu2N9l13l1HvNYa8=
+
+Name: assets/level54-hd.lvl
+SHA1-Digest: VhgyqhvqmSsY0cUV6R8NQ1XGbVY=
+
+Name: res/drawable-hdpi/com_facebook_logo.png
+SHA1-Digest: +F9i6TennSQx3Unl/q4mPr3itE8=
+
+Name: assets/bot7-1.txt
+SHA1-Digest: mbfNaJSEbRDdUetCnz9SRY57IiA=
+
+Name: res/drawable-hdpi/com_facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: assets/boostintro-2.lxl
+SHA1-Digest: +uu3ejUD2/ho3vs4bjp63A+AJjY=
+
+Name: assets/level61-hd.lvl
+SHA1-Digest: zc2J3wkWSMLU6iuSye8AzNz5nk0=
+
+Name: assets/level65-hd.lvl
+SHA1-Digest: fBeOkQK98yu7vYcaFbRtPi80+wo=
+
+Name: assets/level26.lvl
+SHA1-Digest: 0E/hcZ85he4nHgo8BBnGjSFIlD4=
+
+Name: assets/highlows.lxl
+SHA1-Digest: 6/RfeOHu3abhgpbjLiI/JC2DlKc=
+
+Name: assets/whichway-easy.lxl
+SHA1-Digest: ORUeFzrKFXzubt8nObfXqTTlM/8=
+
+Name: assets/bot7-3.txt
+SHA1-Digest: G/2JYtQqnZXPv5eSX+eMoHY5MCo=
+
+Name: assets/level69.lvl
+SHA1-Digest: 4AKl6JPqxWRj13FwwnS3f6/B0DY=
+
+Name: assets/main-menu.plist
+SHA1-Digest: 5edsUl+8bp8muDgMSpFIeD1ekcc=
+
+Name: assets/level34.lvl
+SHA1-Digest: sCQSvZBQYNeWu/hZ6PDkQy1MAEw=
+
+Name: assets/fakers-highlow.lxl
+SHA1-Digest: q5zstu2J7tTQsP8ZrdDxCYKzRpU=
+
+Name: assets/level60.lvl
+SHA1-Digest: hfGHQKWns7STxJeDTWM5eW3OH/c=
+
+Name: assets/buttons-hd.plist
+SHA1-Digest: IwY5Vr8cYFc56HBDCzebvqNpXgc=
+
+Name: res/layout/com_facebook_picker_list_row.xml
+SHA1-Digest: U6I9ESNtQ2J71Pdu9q31s+nTmDI=
+
+Name: assets/boostTutorial-hd.png
+SHA1-Digest: BsOsxTC3J9yLdaBX7XdBSz1lI2o=
+
+Name: assets/world2-sky.tmx
+SHA1-Digest: HZ6YsxPRdrJTMXyFit1JPcchoKc=
+
+Name: assets/select-level-w3.png
+SHA1-Digest: goAjQm/3TQLkLGhHKAxTw9IRua4=
+
+Name: assets/cloudcover.lxl
+SHA1-Digest: kKFCQZD9XXwXoHkUIqJrFgzQ7XU=
+
+Name: assets/gc-24-plain.fnt
+SHA1-Digest: CAzCrXbSGkT0Jm+R3GBg8ExTN38=
+
+Name: assets/level49.lvl
+SHA1-Digest: BIgPZh8XEix7EfE0p74/ni8GYrc=
+
+Name: assets/bot10-1.txt
+SHA1-Digest: mslnmC0nJBVeN6LJx+t6vmiNeg8=
+
+Name: assets/level22-hd.lvl
+SHA1-Digest: cFojFNsN16JJZbd6t7UIa1fP4P8=
+
+Name: assets/bot8-2.txt
+SHA1-Digest: 16AksA7GjdX0SnvBEX0K4EtrUuI=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+SHA1-Digest: wx0FTcs+RGcIb3fC9wYKpWawDgI=
+
+Name: assets/level33-hd.lvl
+SHA1-Digest: C3GxbGkLL77VQeP/s5PQdUUimc8=
+
+Name: assets/world5-background.png
+SHA1-Digest: SM4htcH8WCqVYAuufC19HZPi6Ec=
+
+Name: res/drawable/com_facebook_button_grey_focused.9.png
+SHA1-Digest: oegkN07TNc6Ko8z3qqCgUGgnvRw=
+
+Name: assets/level71-hd.lvl
+SHA1-Digest: jXu0ilWpgIPNKT50jJOFv1wy99M=
+
+Name: assets/bot13-3.txt
+SHA1-Digest: VBylyu1HFzTC7RKdzp8Cl2uXeB8=
+
+Name: assets/level60-hd.lvl
+SHA1-Digest: WlxRRxNH03LY4TmCGoJ9HyfLvmo=
+
+Name: assets/bot5-2.txt
+SHA1-Digest: /PyattlzpMfWzgfXCB4ZUzxupZE=
+
+Name: assets/level40.lvl
+SHA1-Digest: LF+8l8JkdUN0otqMbBlUpdArWb8=
+
+Name: assets/2153_dirt.png
+SHA1-Digest: FEOzoIGs3IZb4JYLPCoaNsTFU9Q=
+
+Name: assets/level66-hd.lvl
+SHA1-Digest: J0oMaXhd18WMYpSs3cQirK+B6FU=
+
+Name: assets/personalad.png
+SHA1-Digest: jOo3XSlzrvIIiYfu5oGKrVcqbH4=
+
+Name: assets/level55.lvl
+SHA1-Digest: dXoir3onil55nW+bM4g+XOghAGo=
+
+Name: assets/kabloom.wav
+SHA1-Digest: fQk9+A9NkQ9s41aOurO1zF1Nz8k=
+
+Name: assets/world4-trees.png
+SHA1-Digest: VDcLPNGJvXUF0tFf9dG/hlQv538=
+
+Name: assets/level3-hd.lvl
+SHA1-Digest: 1TljgF4n2YldJOFlyRcf4WYRryA=
+
+Name: assets/gc-24-plain-hd.png
+SHA1-Digest: AxweNi8V7/6E6c5JtqM+StopwIU=
+
+Name: assets/level7.lvl
+SHA1-Digest: pqTsyUVx2HO6aexTsG/xK9vhqhY=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: ObpXSA4NH1YwVj8ZgzYz74kaDfE=
+
+Name: res/drawable/com_facebook_button_check_off.png
+SHA1-Digest: NDLFyRfWjBjm9xCkOlx9fqTCMug=
+
+Name: assets/bot11-2.txt
+SHA1-Digest: fAQkoZoHmOSkGlGvMlDVAg2xrqg=
+
+Name: assets/miss.wav
+SHA1-Digest: N0yIKN5O5YmKLznF9dnLd68aUKI=
+
+Name: assets/bot14-3.txt
+SHA1-Digest: 0n8P0yQhnunUOd+PRCdpKAioVJU=
+
+Name: assets/level12.lvl
+SHA1-Digest: ETZtPHly9nYL0QdrVQ55AxpqhVI=
+
+Name: assets/select-level-w4.png
+SHA1-Digest: 4ofJIXMSTn4itDe4lZI5Z2gh9W0=
+
+Name: assets/quickcaves-easy.lxl
+SHA1-Digest: dvVx6oeECI9y4i72VSUzkH08pmU=
+
+Name: assets/hover1.lxl
+SHA1-Digest: 5WJLHi20VXKVMBK9Kzp83EvkwBA=
+
+Name: assets/bot6-2.txt
+SHA1-Digest: 0O05YC5hVuPj/6v46rcbZPoHiFg=
+
+Name: assets/bot9-3.txt
+SHA1-Digest: yUpgrn0QeshxG48KgjQBripmIa0=
+
+Name: assets/level16-hd.lvl
+SHA1-Digest: VJa6mlVcWm+53qM3T3zbt1KrH/I=
+
+Name: assets/level27-hd.lvl
+SHA1-Digest: mJ+20Wh9LVsefSNkmyZZP1CBdks=
+
+Name: assets/level61.lvl
+SHA1-Digest: 1vXeRbCp7Gpn7HBkH8BJpyzagK8=
+
+Name: assets/level38-hd.lvl
+SHA1-Digest: GDIWC3JX4ZijI0Y1nn4HsxPDiF4=
+
+Name: assets/world2-hd.png
+SHA1-Digest: ozAZa+dqb6HgmbCDGMSKy2qPhr8=
+
+Name: assets/level49-hd.lvl
+SHA1-Digest: w1PCEQ3vQ0Ek3eLBg4ewSYZzjRM=
+
+Name: assets/howto-hard.lxl
+SHA1-Digest: 8gcZFFw1JJe9klNBABpw4objll4=
+
+Name: assets/world2.png
+SHA1-Digest: gI5kwllar5n/RDcbFRhSVwCZvjI=
+
+Name: assets/bot15-3.txt
+SHA1-Digest: fyeHbBuU+NpFiBvKW8+7UU/siPA=
+
+Name: assets/bot4-1.txt
+SHA1-Digest: +qBLEYqJBcDnn7hBuhm5tQC/ovQ=
+
+Name: assets/gc-24-hd.png
+SHA1-Digest: xFWH0a8CuP64fBoX1bltw22mYIA=
+
+Name: assets/level27.lvl
+SHA1-Digest: YgBSH7zAGI/s92ygJntC1EFJ+nc=
+
+Name: assets/bot12-2.txt
+SHA1-Digest: FVYmIJH2gvZgMIs3rIVMFLqsX2o=
+
+Name: assets/okButton-hd.png
+SHA1-Digest: ytyoAag+D9mmnDM9nkN+rFwXw1w=
+
+Name: assets/music-world2-1.mp3
+SHA1-Digest: nHSxOhscOo5tFMkOFoYxjDReRmo=
+
+Name: assets/whoosh.wav
+SHA1-Digest: kBR4i0tyZX/b48U8fctbsAmoslM=
+
+Name: assets/bot7-2.txt
+SHA1-Digest: fIp9WDOJzKkFnHhnOo5l3vw2YN0=
+
+Name: assets/level3.lvl
+SHA1-Digest: +3jpl5/jFMTmGittLwTSdQ6K/js=
+
+Name: assets/learntofly-ALT-Littlegaps.lxl
+SHA1-Digest: PttDWgP5y8UU6ucRuzdPYxTQTrQ=
+
+Name: res/drawable/com_facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: assets/bot12-3.txt
+SHA1-Digest: p6T4UAcNSwZ6tJ1zzplAS0GSaC4=
+
+Name: assets/world4-sky.png
+SHA1-Digest: Pmp5eJ/7cVbtstQQgEm0eMclfyw=
+
+Name: assets/ExplodingRing.plist
+SHA1-Digest: h6TjmQSfB3nlfS7R/hjGCL6FH58=
+
+Name: assets/redrock.png
+SHA1-Digest: VBbIWxhdXMy8RnKDbipw3V1gCEk=
+
+Name: res/drawable/com_facebook_loginbutton_blue_pressed.png
+SHA1-Digest: /l9r0DHSIj4WdudFxA18dCfnfec=
+
+Name: assets/tabletops.lxl
+SHA1-Digest: U25vWgiX1EGvoLh3YGHNhs/BsnI=
+
+Name: assets/aBurnTutorial-hd.png
+SHA1-Digest: 7njmVNHSJwa28gPR6boRHyMehoA=
+
+Name: assets/main-menu-hd.png
+SHA1-Digest: l7VmQgL4bF57GJdlG+VAVdZ0930=
+
+Name: assets/2153_edgegrass_wide-hd.png
+SHA1-Digest: BosibMrWMedJzDf9pqn9CAuzLzU=
+
+Name: assets/level12-hd.lvl
+SHA1-Digest: +c1ZzYllImtCZKxbPRtlyYbvCzk=
+
+Name: assets/rededge.png
+SHA1-Digest: 4SIfURMSKZZDEYT9zJLpCMGFr+w=
+
+Name: assets/swoopsizes.lxl
+SHA1-Digest: IRRfY9zV28XZyBZn/LcdpTVKXpM=
+
+Name: assets/Info.plist
+SHA1-Digest: HAUsP/TNzrOflwjB8m5DcpLR9nM=
+
+Name: assets/moon-hd.png
+SHA1-Digest: j/8oikJAGPCwpBGu14LjHZplYGQ=
+
+Name: assets/mouths.lxl
+SHA1-Digest: uGTxvTaZ5Rc3qmAfeT7ehw9/9Mc=
+
+Name: res/layout/com_facebook_picker_list_section_header.xml
+SHA1-Digest: QXdQhEiImdRfSjbQVJ4mP05NpKE=
+
+Name: assets/firework3.plist
+SHA1-Digest: Q/a6I+3TsLELFcwLYh6sAzFEpUw=
+
+Name: assets/level9-hd.lvl
+SHA1-Digest: 3C9GZdzkam2+mlWNzMvajpMb7AI=
+
+Name: assets/level42-hd.lvl
+SHA1-Digest: IpTgs2VrSuA5RkAD80fSEnJ3FSw=
+
+Name: assets/world5-trees.png
+SHA1-Digest: ouokc0vMRkWqqUqWI9/FfPOJuYg=
+
+Name: assets/bot5-1.txt
+SHA1-Digest: KtV31NyIjYaREeqdaL6kZr0exYs=
+
+Name: assets/level46-hd.lvl
+SHA1-Digest: WJLIcQ2FzA460HmY43v3Yyg0+Y4=
+
+Name: assets/world4-background.png
+SHA1-Digest: REu2YDREfhxTypB/Ga33yskTFN0=
+
+Name: assets/bot10-2.txt
+SHA1-Digest: qcDlNbPLa5qtjY/sezF1oCXuCwQ=
+
+Name: assets/level57-hd.lvl
+SHA1-Digest: Hvd9h1ACX28eTJd0nkKop80RW00=
+
+Name: assets/level53-hd.lvl
+SHA1-Digest: KHgrDdxi8EaeFvX07qKhZBtYPkM=
+
+Name: assets/bot2-2.txt
+SHA1-Digest: KmXXAtoZECpJIIrVPCkSEJhZUVw=
+
+Name: assets/level23.lvl
+SHA1-Digest: eGHJIB52VMybKAuuwZM6iqjx9m8=
+
+Name: assets/square.png
+SHA1-Digest: 2rH6zM1h4vyLtBmJdtfZg6SvhDE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: IiY0Z38YBY3NvHf30y6MjiO/ft0=
+
+Name: assets/world3-sky.tmx
+SHA1-Digest: 0QRUmUl0bYs1gYpyotyaiinM+8o=
+
+Name: assets/level71.lvl
+SHA1-Digest: S26PrWTioPk5D0Pu0lYZRvbHaNE=
+
+Name: assets/level1-hd.lvl
+SHA1-Digest: gkQ6lDmV1v5htQht8FnuHvYKAKA=
+
+Name: assets/gc-16.fnt
+SHA1-Digest: xyxjDh74BIoVlG/XSVsg1NNRles=
+
+Name: assets/level54.lvl
+SHA1-Digest: cRg/xQEn3BGQY7uzbCKZKfiF9QU=
+
+Name: assets/level39.lvl
+SHA1-Digest: PlLYOeShJAagVNP5jpS8mcb3F9o=
+
+Name: assets/world2-big_islands.png
+SHA1-Digest: bgq4D0NbhsBO1KBpbXMS+vrX36U=
+
+Name: assets/fasttubes-easyloops.lxl
+SHA1-Digest: cG8Z8sSXqVLxwIMYnsessoQ8JXg=
+
+Name: assets/level39-hd.lvl
+SHA1-Digest: cNgb6eCPAStnGpaKDQcOOl2irPQ=
+
+Name: assets/level5-hd.lvl
+SHA1-Digest: pg1iCSSy3jchK/h4ygIulsukTIA=
+
+Name: assets/Default@2x.png
+SHA1-Digest: EmdhabW4kl3UMZNPzLgYnWTOccU=
+
+Name: assets/catapults.lxl
+SHA1-Digest: bojJ/Mj6hOZr0fBacCZ6WHP4ADU=
+
+Name: assets/level47.lvl
+SHA1-Digest: FIH+V2pMGdo40DjB/ogIsxSTJXY=
+
+Name: res/drawable-ldpi/com_facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: res/drawable/com_facebook_profile_picture_blank_square.png
+SHA1-Digest: dojsOaLGidEyBAoObp7wIPzBerc=
+
+Name: assets/fakedoubles.lxl
+SHA1-Digest: ktLfl3PnL1ZANXqWRdpqFKNqXaU=
+
+Name: assets/crystalview.png
+SHA1-Digest: Pu+C5f/SpWNdrbeEt/Nt2xY7wR4=
+
+Name: assets/level15.lvl
+SHA1-Digest: +4guU2xFQu8q8gXoafkk7tTuFkw=
+
+Name: res/drawable/com_facebook_picker_item_background.xml
+SHA1-Digest: rqsPxMm7viabKMxqDSrR9ToXA+s=
+
+Name: assets/waterfront_blue.png
+SHA1-Digest: HHzw5FCKN0u7eC7LCXqcxkxhO48=
+
+Name: assets/level32.lvl
+SHA1-Digest: GNyviqJgw2NL89HRDdzk2GpkxqQ=
+
+Name: assets/level72-hd.lvl
+SHA1-Digest: m1qNUgcwPnhE4ZcuLOkc5gLfqgU=
+
+Name: assets/level62.lvl
+SHA1-Digest: 9oi5qLMDCATHbGFnfqDn9oL5q3I=
+
+Name: assets/gradbar.png
+SHA1-Digest: w1PUrPU7dYAwGMmgpAjYZTu6iFI=
+
+Name: res/drawable/com_facebook_button_check.xml
+SHA1-Digest: wbKWoSzbfJalngP4zBUMn9iEX3Y=
+
+Name: assets/easy.lxl
+SHA1-Digest: 2zMCuaZtMYYksYwYnnuMYmtldxA=
+
+Name: assets/rollinghills-boosts.lxl
+SHA1-Digest: +BQl+YjggQIQ/dEBLRpfQ/X7tO8=
+
+Name: assets/world3.png
+SHA1-Digest: 9V+zSs5Q30R/Oa8Yf804e8gR/J8=
+
+Name: assets/bot15-2.txt
+SHA1-Digest: Kc6IFRVuZLA/WvmvmiBjatP7p2k=
+
+Name: assets/learntofly-ORIGINAL.lxl
+SHA1-Digest: yEa5oSBvWzeCOc9seR7NyRxUX2w=
+
+Name: assets/airrockjumps.lxl
+SHA1-Digest: EqvvVXHsR3mDJi4SRtd7vI5XUcw=
+
+Name: assets/Firewall.plist
+SHA1-Digest: F3LpZHi0H7t6eatEds5x7Klq+q4=
+
+Name: assets/jungleedge.png
+SHA1-Digest: +TMS1z+ixqen7W/4XlP8gktxb+0=
+
+Name: assets/sand2.png
+SHA1-Digest: OB4DRChsnV5YsWJhnvV+F/6HiXQ=
+
+Name: res/drawable/com_facebook_picker_list_pressed.9.png
+SHA1-Digest: ughAWBlhb5fxIgHli8NgEiGGjGY=
+
+Name: assets/level4.lvl
+SHA1-Digest: h19lDvH27l9m1Jp3Cq5jXMPZ7VI=
+
+Name: res/drawable/com_facebook_place_default_icon.png
+SHA1-Digest: T6PfkzvzoTErI9HPUHhPTzYuaOw=
+
+Name: assets/world1-layer2.tmx
+SHA1-Digest: bz9Ezuvj+6X1EkM+QpJ6+0Ubg1g=
+
+Name: res/drawable/com_facebook_picker_list_selector_background_transi
+ tion.xml
+SHA1-Digest: U2RKQeMUym8uRDPLqKy9LVCCoko=
+
+Name: res/layout/com_facebook_picker_title_bar_stub.xml
+SHA1-Digest: 1OSGcGvQIIKvnd5BeCrGawltB34=
+
+Name: assets/level24.lvl
+SHA1-Digest: nuPUpyjIsQq0oXCzcl9+nrfORU8=
+
+Name: assets/fanfare.wav
+SHA1-Digest: 2883ucxsTu43xGdpG/8LXnC96Rs=
+
+Name: assets/howto-old-long.lxl
+SHA1-Digest: +T2tdRjoFIqpN3bVKfZUmA47Lbg=
+
+Name: assets/bot13-1.txt
+SHA1-Digest: Fb01zRxoxCFHDNXaTGji6ZgVh0Q=
+
+Name: assets/level28-hd.lvl
+SHA1-Digest: ccvD7eXShpSjMdp79panGvszIEw=
+
+Name: assets/sprites.plist
+SHA1-Digest: 9BREZc68VilJthAILQkcTzwiz3o=
+
+Name: assets/tutorial.lxl
+SHA1-Digest: W/7KXJ2SOag8vVfG/GUNfXKxWOM=
+
+Name: assets/burnTutorial.png
+SHA1-Digest: 7wfXJRTuYaObXQR2KF27d+se4N0=
+
+Name: assets/level31-hd.lvl
+SHA1-Digest: nIende2ERGRjqV4FlM7dhsrcfwM=
+
+Name: assets/bot4-3.txt
+SHA1-Digest: /QTNgewzs5KKvDNGHziK1jY8IR0=
+
+Name: assets/littlehills-gaps.lxl
+SHA1-Digest: hunlomkxcp1PZg9JLYPSxiw/SD4=
+
+Name: assets/bigtriples.lxl
+SHA1-Digest: xlkdx/rMhyDCWaz+edMnSKUMr9o=
+
+Name: res/drawable/com_facebook_logo.png
+SHA1-Digest: COOFdQDqXjvNdi+5TMPa3bPhaEQ=
+
+Name: assets/level20-hd.lvl
+SHA1-Digest: F8ikDGXeNAFvccS36HBJEqdv4LY=
+
+Name: assets/bot2-3.txt
+SHA1-Digest: zRCvRU0sGrkumDnvImVBe6mymco=
+
+Name: assets/level64-hd.lvl
+SHA1-Digest: JrREnQFGphvV9taJyc7Qw9y/XjI=
+
+Name: assets/world1-hd.png
+SHA1-Digest: xJLIHVUl1nj/yZE53/m2KqfFVyc=
+
+Name: assets/aBurnTutorial.png
+SHA1-Digest: 30yp62op8VPU0Oy4GePBzNMzfug=
+
+Name: assets/level70.lvl
+SHA1-Digest: l1gT1xrxJS63Y3dj7aKNMU9bgq0=
+
+Name: res/drawable/com_facebook_top_background.xml
+SHA1-Digest: AQKqD57uBlV2oO+Xp2ZCKzAXS1Q=
+
+Name: assets/music-world4-1.mp3
+SHA1-Digest: YzxwapTobP/ROgevNa7jLnRLWNk=
+
+Name: assets/wall1.jpg
+SHA1-Digest: 06YUvlkCZnmiVTjjkKPo6UGOuww=
+
+Name: res/drawable/com_facebook_button_check_on.png
+SHA1-Digest: ObcSDxnphDDTROHTniwThtnJVWk=
+
+Name: assets/level75-hd.lvl
+SHA1-Digest: 5Ybo71+OUnBQwNNn9d4mdoje6b0=
+
+Name: assets/pairs.lxl
+SHA1-Digest: E+Ti6C5M7P+Y52AbBOxtRyTWwHM=
+
+Name: assets/gc-16-hd.fnt
+SHA1-Digest: Do9hxQp2tORWauofiMk+TwieY+Q=
+
+Name: assets/gc-24.fnt
+SHA1-Digest: IoHZd01m0jlJpaBlwcMqErRem4s=
+
+Name: assets/level63.lvl
+SHA1-Digest: ingVxNlL95xlGfasNkjZtGZnvTw=
+
+Name: assets/world4.png
+SHA1-Digest: 1Pm4MIpxlzE36DD9AUvQbiDiyBU=
+
+Name: lib/armeabi/libbox2d.so
+SHA1-Digest: r8d7l1OBNawPzN4V0ZP04ZwvNxI=
+
+Name: assets/level46.lvl
+SHA1-Digest: 0ksx0cvdQf0IsO8yx/tAXH3VG1Q=
+
+Name: assets/level9.lvl
+SHA1-Digest: frH4S/XHRO0nmuEDvyWD1EOea+M=
+
+Name: assets/crystalview-hd.png
+SHA1-Digest: WfPTXfJTlQ1gdRgU0sj9RPBEoUU=
+
+Name: res/layout/com_facebook_picker_search_box.xml
+SHA1-Digest: 50r50yBmHNCPWuBf121qpy0E++M=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: +TD5QJ+61PxStELkA+yeal+HbP0=
+
+Name: assets/whichway.lxl
+SHA1-Digest: zruRa6lzQ49u0kIOUCdJgUAhhdg=
+
+Name: assets/boostexpert-2.lxl
+SHA1-Digest: L2HvWXuJL+MueGHUHU4WKXqh9Jk=
+
+Name: assets/level29.lvl
+SHA1-Digest: PHsuzf0mSytOE/kNRU3iC+W/3Tg=
+
+Name: assets/gc-24-plain.png
+SHA1-Digest: kEM5sEfehZoVH7N6tInVLi0laGE=
+
+Name: assets/moon.png
+SHA1-Digest: aJMespskHMsSSyVjIo9PeZFwiEw=
+
+Name: assets/level14.lvl
+SHA1-Digest: 2Z0Gq+jqH5r8QdlesdpSXZbevH0=
+
+Name: assets/level23-hd.lvl
+SHA1-Digest: sAGjVYdgcrsFuePM258ETnR/pkY=
+
+Name: assets/catapults-platforms.lxl
+SHA1-Digest: hDITZYQT9YPTolMnUyARhb6MIXU=
+
+Name: assets/bot15-1.txt
+SHA1-Digest: IIP7GibzKLEvlPpg7LjYFaASnQg=
+
+Name: assets/level31.lvl
+SHA1-Digest: TdnwYiJtWILfVg0IsfMU1QLMLRM=
+
+Name: assets/level34-hd.lvl
+SHA1-Digest: Vhmv1Yvt/sxpyk1GQP8dzIeLirk=
+
+Name: assets/waterfront.tmx
+SHA1-Digest: bncMab0NtYMuQFBfukPgyXghgz8=
+
+Name: assets/gradbar-a.png
+SHA1-Digest: 9BnRsNpbVzEaIePBM4suPB8sO6U=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: tWUWjtTo3HxE/8a02qZ5QsaeyfM=
+
+Name: assets/staylow.lxl
+SHA1-Digest: ljt0ckU7ap/ta5Ep7Gkq5yINYIY=
+
+Name: assets/level45-hd.lvl
+SHA1-Digest: W+AztBgLu8OOjVuo9Qa0xkuetzk=
+
+Name: res/layout/com_facebook_picker_image.xml
+SHA1-Digest: 8fU0WufONcY+cuGhO5xyIW7F0mE=
+
+Name: assets/spines.lxl
+SHA1-Digest: GRVNjnpnZrGWB92r4nXoJHaA2yc=
+
+Name: res/drawable-hdpi/com_facebook_close.png
+SHA1-Digest: vzoVwUXnEtJQCL4582EeDreqvIA=
+
+Name: lib/armeabi-v7a/libcocos2d.so
+SHA1-Digest: 9YFwU/QjRA4hh3W/0Wslwqbcs/M=
+
+Name: res/drawable-xhdpi/com_facebook_close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: assets/doublesteps.lxl
+SHA1-Digest: YN8QUx/PQKbXTag+F6s2kjydCJ8=
+
+Name: res/layout/com_facebook_picker_checkbox.xml
+SHA1-Digest: ARPItYRBsnkfawFjBp6sxvG9k9s=
+
+Name: assets/easy-easy.lxl
+SHA1-Digest: F1cORw87VA9YlIKWQqUr/AjCDyU=
+
+Name: assets/world4-sky.tmx
+SHA1-Digest: ag4Tqnn1eJxIoyXJYjLgtWwYpqo=
+
+Name: res/layout/com_facebook_placepickerfragment.xml
+SHA1-Digest: pHFiXNw5o5YvwfCuDNDUnjuq8pY=
+
+Name: assets/level17.lvl
+SHA1-Digest: 1mh/27TmsKYkp9iPVjnogwt1+E8=
+
+Name: assets/loops.lxl
+SHA1-Digest: BR5UBdMA4Sx8YfdeN8gIZTyCuy4=
+
+Name: assets/tabletops-hard.lxl
+SHA1-Digest: L8W1hWDptUxgYtUxxUMQ42WMw8k=
+
+Name: assets/skijumps-hard.lxl
+SHA1-Digest: cAAzfiPC0oB353ODMoeXQMcXLqI=
+
+Name: assets/music-world5-1.mp3
+SHA1-Digest: xyMLhQ7Nzks9aRNAkX/FclxxgKs=
+
+Name: assets/world1-layer1.tmx
+SHA1-Digest: oJhnbWu3EziaJcVjVqtfqKHT6MY=
+
+Name: assets/level1.lvl
+SHA1-Digest: MOccJNINpSRTKTwLwCFzqd/HNzE=
+
+Name: assets/level13-hd.lvl
+SHA1-Digest: mod2jWAqD/CDkFdTqevNF+jrcnY=
+
+Name: assets/boomerangairrocks.lxl
+SHA1-Digest: rNvlga6nApOt8pxmk2ANFSSLcl0=
+
+Name: assets/learntofly-hard.lxl
+SHA1-Digest: hM9DZS+Gt8/ToehhlnIUUjV//uw=
+
+Name: assets/rolling.wav
+SHA1-Digest: S78GgL3dRUU3fvhvR/l6eCGJI7s=
+
+Name: assets/boostTutorial.png
+SHA1-Digest: wVUMDWLOAv007hBx93GF4v0Qrxg=
+
+Name: assets/fps_images.png
+SHA1-Digest: BzqBCNxlVAPN2JEsIJ0W506sMnM=
+
+Name: assets/world5-trees.tmx
+SHA1-Digest: ksnb5RD/KvE+aD9C9tDe1FC8Q/I=
+
+Name: assets/learntofly.lxl
+SHA1-Digest: gaiffqRrDyhA/gSzK1oa1GycLRE=
+
+Name: assets/pickup_coin.wav
+SHA1-Digest: cvfljsNOXmPvajvQEPfoLmIUp2M=
+
+Name: assets/howtocrazy.lxl
+SHA1-Digest: L8mrzQgRLbWxgYtsX7Ua3rfE5VI=
+
+Name: res/drawable/com_facebook_profile_picture_blank_portrait.png
+SHA1-Digest: NDpX+1suDRno0Xa3ic18EbiJ1lU=
+
+Name: assets/fire.png
+SHA1-Digest: G9jJ7dNpuHLrBN2dWamRmjabNOw=
+
+Name: assets/howto.lxl
+SHA1-Digest: bN8RkGXiHrlFBuP0qWyK7bZrX6I=
+
+Name: assets/deathdoubles.lxl
+SHA1-Digest: 2vlD4H8esCm4aK/njC4WZ3NGhwo=
+
+Name: assets/wallwalker.lxl
+SHA1-Digest: YIqahLZ9I7EALoSkJS9zaXQXw0E=
+
+Name: assets/gc-24-plain-hd.fnt
+SHA1-Digest: 4Y3SaXxjvENoIx7UVQW9hpn0xPg=
+
+Name: assets/bot1-3.txt
+SHA1-Digest: iytcGfxGUJJ74kGlViyQMRicsmo=
+
+Name: assets/world5.png
+SHA1-Digest: BBpvcTaFhVOZm32h4MCscdzyKJw=
+
+Name: assets/level37.lvl
+SHA1-Digest: agcTdJp17eMZWI0N6q3ezGy6W2E=
+
+Name: assets/level21.lvl
+SHA1-Digest: W09dwn8fp63nBifmfJb873jVJ6M=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: 4DQ9X8PiB9dIROZi2B6v3x9obp0=
+
+Name: assets/level73.lvl
+SHA1-Digest: dCLRCLLFdxvmUpfOpNnZqkDjAnQ=
+
+Name: assets/swingjumps.lxl
+SHA1-Digest: Vb5R9N5ErEoc/ZWC3ow0Yy08/fg=
+
+Name: assets/level30.lvl
+SHA1-Digest: mKefOWmwnUqFuUuxQyqmwMYImyI=
+
+Name: assets/world5-background.tmx
+SHA1-Digest: tllrvPjNj2XLfwreHxuBJHBWTU8=
+
+Name: assets/world2-big_islands.tmx
+SHA1-Digest: YxMvG+5wgO9EQkMuZT1ZWBwYISc=
+
+Name: assets/level64.lvl
+SHA1-Digest: p4A/DlUIkzDNYsXI7eHfmLz8aFw=
+
+Name: assets/cutscene-hd.png
+SHA1-Digest: 4CcM/4FaV6QDJtxzWEDQuwTuRo4=
+
+Name: assets/airhorn.wav
+SHA1-Digest: xdqIlotKuJE1R0XlAY8umbw/zUI=
+
+Name: assets/buttons-hd.png
+SHA1-Digest: 72A/T/KSOhD5aQlQNClmdM/n7A8=
+
+Name: assets/level36-hd.lvl
+SHA1-Digest: ewBg3bjn77qWq7Xm2CSDpWFkaM4=
+
+Name: assets/level47-hd.lvl
+SHA1-Digest: FN4hqz3wfAHUgjunmOl/oBYVMp8=
+
+Name: assets/rollinghills-tilt.lxl
+SHA1-Digest: V+hogYJkzaErGhlGMmptgkxT9Tc=
+
+Name: assets/buttons.png
+SHA1-Digest: nCTDszEzA+tbINQ5fjkLwX8OZIQ=
+
+Name: assets/level45.lvl
+SHA1-Digest: aGzAXNjsNzBVvuzjHIfKd5Bw56c=
+
+Name: assets/boostintro-easy.lxl
+SHA1-Digest: EIovvdtGbqR5IGMGk7i6twMVyuE=
+
+Name: assets/worldlock-hd.png
+SHA1-Digest: zSVopJEKlVnbRIMdcOfRrugyi5k=
+
+Name: assets/level58-hd.lvl
+SHA1-Digest: cQl0pf6EvZP/Mp8UFHJUNDHJ0sA=
+
+Name: assets/level69-hd.lvl
+SHA1-Digest: 9nxEF8LYoqfyiRCLX59bE8/vf8k=
+
+Name: res/drawable/com_facebook_loginfragment_background_gradient.xml
+SHA1-Digest: 9hhf0mA98tzFmAuWhZdTSnh+3/Q=
+
+Name: res/drawable/com_facebook_loginbutton_blue_focused.png
+SHA1-Digest: /l9r0DHSIj4WdudFxA18dCfnfec=
+
+Name: assets/mustfloat.lxl
+SHA1-Digest: u3P0mAjG2ogpq457y0t1lYRBp68=
+
+Name: assets/2153_cave.png
+SHA1-Digest: hQxkObGnY4xNhFcZNxSH7raco+c=
+
+Name: assets/level50.lvl
+SHA1-Digest: bfLn7RDQpsf4uudWmCsx4QNbM7M=
+
+Name: res/drawable-hdpi/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: lSztBHFVRlPMsGcFT26oMQipfTQ=
+
+Name: assets/sprites.png
+SHA1-Digest: IEZXKjgBMB50Wlu7a+Bxrn3/m9Q=
+
+Name: assets/notches-easy.lxl
+SHA1-Digest: 5+/8xROmnc0JxE4HL96K4NjYb00=
+
+Name: assets/level59.lvl
+SHA1-Digest: mcsLJi+ptVdYhN45ipdy0IRlXAw=
+
+Name: assets/rollinghills-tilt-hard.lxl
+SHA1-Digest: QdoEg7dIIAiFv2QlFl5DPXLcP80=
+
+Name: res/drawable/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: P0wPjAW7g0+CwVv4YccsLFHlsh0=
+
+Name: assets/level16.lvl
+SHA1-Digest: wVmjR+Uc1DfM8NZITid6Reqrplk=
+
+Name: assets/move-to-HD.py
+SHA1-Digest: zyAhTDBgq/PQ90ykOFQBS6Ygm70=
+
+Name: res/drawable/com_facebook_picker_list_focused.9.png
+SHA1-Digest: wq1XBihYEP7fT9hT55vx2S7+KDQ=
+
+Name: assets/Default.png
+SHA1-Digest: HlDkpi1pHRqoTmIIoXu3qCApsDI=
+
+Name: assets/level24-hd.lvl
+SHA1-Digest: HO3mOlfJAdNj6Sen+YtWfCTcO48=
+
+Name: assets/jungle.png
+SHA1-Digest: qOdnMF1tBhQry3EZDXHerOrVnks=
+
+Name: assets/level35-hd.lvl
+SHA1-Digest: UKnkZdTfJI7/OtAd9LFo2F85eQA=
+
+Name: assets/level22.lvl
+SHA1-Digest: kKkxzd1sLTPVWqx4G287riesUAM=
+
+Name: assets/music-world1-1.mp3
+SHA1-Digest: xS6hhuwPFKst7NL//Q+0HEvqDg8=
+
+Name: assets/world3-mountains.tmx
+SHA1-Digest: LlpOGDLlgz8W/Rv16RT6RPrx4pE=
+
+Name: assets/level65.lvl
+SHA1-Digest: 6D/zCAOtk/dPk+Ppm6fcGo+4fDY=
+
+Name: assets/level2.lvl
+SHA1-Digest: 7+hNlAjbaXHZQunHpFZ6enYMU5E=
+
+Name: res/drawable/com_facebook_profile_default_icon.png
+SHA1-Digest: hnc7R7K+VpzIWKki/iGEw6AlfPw=
+
+Name: assets/world5-hd.png
+SHA1-Digest: 1dlLKjCdiBodDI+j5PlDZ2a6rHQ=
+
+Name: assets/level68-hd.lvl
+SHA1-Digest: Xd/u1PmwTT5zL0Ut6yVVe6xo2a8=
+
+Name: assets/level38.lvl
+SHA1-Digest: QvNp28vcO0TJQX32Zy5QOc+ztW4=
+
+Name: com.amazon.kiwi.version
+SHA1-Digest: YJ5OHlFPBGr8mXRS8gdJgA1EOdQ=
+
+Name: assets/gc-32-hd.png
+SHA1-Digest: Q5qMbgBBaSJqav55HO1gFu3eudc=
+
+Name: assets/level72.lvl
+SHA1-Digest: 3Wwz5GdiwtwlQmqAu4PsTODQD3o=
+
+Name: res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+SHA1-Digest: BvNuj0JM4dW1M5X/qZOU04aa9aQ=
+
+Name: assets/world5-sky.tmx
+SHA1-Digest: 5ftSIKQkX9pHnHgS6uMMUR8aRZM=
+
+Name: res/drawable/com_facebook_loginbutton_blue_normal.png
+SHA1-Digest: 5eqq9jxVF9PeVyf0iNJD0gmKE3g=
+
+Name: assets/rollinghills.lxl
+SHA1-Digest: tkcth62c885CPAFl/CFw5GLqF9g=
+
+Name: assets/world1-sky.png
+SHA1-Digest: yVu0KmeDoBdNcWH2NbIa85vDuws=
+
+Name: assets/dot big.png
+SHA1-Digest: b5bmn8WCtuxmr4UE/vEhwkt3m3g=
+
+Name: assets/fireworks.wav
+SHA1-Digest: vwQjWjz0dJx5u58MTvpri8hHwqE=
+
+Name: res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+SHA1-Digest: CKFnDef2GfRTaRgjuT6+/5YzUk4=
+
+Name: assets/level19-hd.lvl
+SHA1-Digest: +N0RBBVu3kgLlbr6l51rgh0qOig=
+
+Name: assets/fasttubes.lxl
+SHA1-Digest: hk6L70owYyO2BL4t8Z03wNJ6vhQ=
+
+Name: assets/caves.lxl
+SHA1-Digest: ZlfdmyDbKDjyihLDYLiP7X/Nna4=
+
+Name: assets/level44.lvl
+SHA1-Digest: FTfu7XLX3o67zJl1EAD+n6TTZgU=
+
+Name: assets/fakers.lxl
+SHA1-Digest: 3c7BU1EhN1u/+jM1YKtprXGVtGU=
+
+Name: assets/level41-hd.lvl
+SHA1-Digest: mAWGw5CbXq76Tozeo/gnM3ELJ1g=
+
+Name: assets/tutorial-hd.png
+SHA1-Digest: mrmoFZB9k03wUBrxGW7E0QQbvkQ=
+
+Name: res/drawable/com_facebook_list_section_header_background.9.png
+SHA1-Digest: UlppTzQMf0S8p04nUqt4qCBKRF0=
+
+Name: assets/level30-hd.lvl
+SHA1-Digest: boiZ7taXRwXgSCYh1xSgiy57xk0=
+
+Name: assets/level6-hd.lvl
+SHA1-Digest: Lgk7hE+Icpn/qHZ1T3A2LNKM9nk=
+
+Name: assets/bumps.lxl
+SHA1-Digest: qbnR0D/SYsgCNbx5U3fgSrF6WSs=
+
+Name: assets/world1-background.png
+SHA1-Digest: kaX7H5+tFMMa1Z7o81Xw0IbvGDw=
+
+Name: assets/waterfront_1.tmx
+SHA1-Digest: /VDo/eg0oZBvyfgaXl33xWANNRc=
+
+Name: lib/armeabi-v7a/libbox2d.so
+SHA1-Digest: A3c48k+DDXOaCXcAKoynw0fro4o=
+
+Name: assets/gc-32.fnt
+SHA1-Digest: HaSDKytpYfcQ0tjAfeN2k3IkX+I=
+
+Name: assets/airrockjumpshard.lxl
+SHA1-Digest: uh5Ks3u88nmesJ2u3KBi8BVlA90=
+
+Name: lib/armeabi/libcocosdenshion.so
+SHA1-Digest: Nf7fb88urkZZGEvZgrG8eL3Uu2I=
+
+Name: assets/level74-hd.lvl
+SHA1-Digest: Ww2zQlhxsGinTY0Zp5q+X91Ynuo=
+
+Name: assets/spinespro.lxl
+SHA1-Digest: FRYwiWaG9sEmX+YGOoXyX3IQs6A=
+
+Name: assets/level52-hd.lvl
+SHA1-Digest: lhEfaUDg6dFK5GJslH+i/eyTG1A=
+
+Name: assets/waterfront.png
+SHA1-Digest: 5tdkTDjG4enWoGbTSt8TcsHU9cE=
+
+Name: classes.dex
+SHA1-Digest: 1cPOVou7lY7YAnqqX2htWjVuciQ=
+
+Name: assets/level63-hd.lvl
+SHA1-Digest: iJuidsF7QR3+TXsgadpBxS8ODU8=
+
+Name: assets/littlehills-gaps-hard.lxl
+SHA1-Digest: xSdBnsjMDCaMqA/1JWKp+jGqOzk=
+

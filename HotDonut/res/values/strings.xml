@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_loginview_log_out_button">Log Out</string>
+    <string name="com_facebook_loginview_log_in_button">Log In</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log Out</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_loginfragment_log_in_button">Log In…</string>
+    <string name="com_facebook_loginfragment_logged_in">Logged In</string>
+    <string name="com_facebook_loginfragment_not_logged_in">Not Logged In</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="app_name">Hot Donut</string>
+    <string name="billing_not_supported_title">"Can't make purchases"</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="cannot_connect_title">"Can't connect to Market"</string>
+    <string name="cannot_connect_message">"This app cannot connect to Market. Your version of Market may be out of date. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="restoring_transactions">Restoring transactions</string>
+    <string name="learn_more">Learn more</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="buy">Buy</string>
+    <string name="select_item">Select an item</string>
+    <string name="edit_payload">Edit Payload</string>
+    <string name="edit_payload_title">Edit the developer payload associated with this purchase</string>
+    <string name="edit_payload_accept">Set</string>
+    <string name="edit_payload_clear">No Payload</string>
+    <string name="items_for_sale">Items for sale</string>
+    <string name="items_you_own">Items you own</string>
+    <string name="recent_transactions">Recent activity</string>
+    <string name="check_license">Check license</string>
+    <string name="checking_license">Checking license...</string>
+    <string name="allow">License Check OK!</string>
+    <string name="dont_allow">License Check Failed!</string>
+    <string name="application_error">Application error: %1$s</string>
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+    <string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+    <string name="buy_button">Buy app</string>
+    <string name="view_button">View App</string>
+    <string name="quit_button">Exit</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="crystals20">crystals20</string>
+    <string name="crystals50">crystals50</string>
+    <string name="crystals200">crystals200</string>
+    <string name="crystals500">crystals500</string>
+    <string name="crystals2000">crystals2000</string>
+    <string name="removeAds">removeAds</string>
+    <string name="unlockLevels">unlockLevels</string>
+</resources>
